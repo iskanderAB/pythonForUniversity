@@ -149,8 +149,12 @@ iskander = {'name' :'iskander', 'lastName':'abbassi'}
 # for item in s :
 #     print(item)
 
-villes = frozenset (["tunis", "Béja", "Nabeul"])
-print(villes)
+# villes = frozenset (["tunis", "Béja", "Nabeul"])
+# print(villes)
+
+def help():
+    print('help !')
+    
 
 
 
